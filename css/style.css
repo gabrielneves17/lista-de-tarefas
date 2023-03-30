@@ -8,6 +8,7 @@
 }
 
 body {
+    height: 100vh;
     background: linear-gradient(40deg, #B4D9B2, #D4B2D9, #FADECA);
     background-position: center;
     background-size: cover;
